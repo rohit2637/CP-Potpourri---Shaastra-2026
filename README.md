@@ -1,5 +1,3 @@
-# CP Potpourri 2026
-
 ## Problem Set
 
 ## Debug the code
